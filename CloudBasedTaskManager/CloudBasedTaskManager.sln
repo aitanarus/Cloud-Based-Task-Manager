@@ -16,6 +16,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		run.cmd = run.cmd
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{465FF6B7-80F8-432B-A7B5-E8A07D3CDBD5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,6 +40,10 @@ Global
 		{BB94630A-5D65-4228-8FF3-49F4FF0E0B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB94630A-5D65-4228-8FF3-49F4FF0E0B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB94630A-5D65-4228-8FF3-49F4FF0E0B15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{465FF6B7-80F8-432B-A7B5-E8A07D3CDBD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{465FF6B7-80F8-432B-A7B5-E8A07D3CDBD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{465FF6B7-80F8-432B-A7B5-E8A07D3CDBD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{465FF6B7-80F8-432B-A7B5-E8A07D3CDBD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
