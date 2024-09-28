@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "WebAPI/1.0.0": {
         "dependencies": {
-          "Domain": "1.0.0",
+          "Core": "1.0.0",
           "Swashbuckle.AspNetCore": "6.2.3"
         },
         "runtime": {
@@ -62,9 +62,9 @@
           }
         }
       },
-      "Domain/1.0.0": {
+      "Core/1.0.0": {
         "runtime": {
-          "Domain.dll": {}
+          "Core.dll": {}
         }
       }
     }
@@ -117,7 +117,7 @@
       "path": "swashbuckle.aspnetcore.swaggerui/6.2.3",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
     },
-    "Domain/1.0.0": {
+    "Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

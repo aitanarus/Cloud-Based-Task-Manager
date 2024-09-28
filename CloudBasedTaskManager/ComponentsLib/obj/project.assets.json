@@ -552,8 +552,8 @@
     },
     "Core/1.0.0": {
       "type": "project",
-      "path": "../Shared/Core.csproj",
-      "msbuildProject": "../Shared/Core.csproj"
+      "path": "../Core/Core.csproj",
+      "msbuildProject": "../Core/Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -595,8 +595,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\Shared\\Core.csproj": {
-              "projectPath": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\Shared\\Core.csproj"
+            "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\Core\\Core.csproj"
             }
           }
         }

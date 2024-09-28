@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/U5Xb9YZgEeGgtqFAHUGNV12Ptks95vseDEYrwM2oVg=",
+  "Hash": "Q81jdFqzGjhn1kQWeVB5qRkJNFogZFpBjZPs2kn56gw=",
   "Source": "BlazorWASM",
   "BasePath": "/",
   "Mode": "Root",
@@ -138,12 +138,12 @@
       "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\ComponentsLib\\bin\\Debug\\net6.0\\ComponentsLib.pdb"
     },
     {
-      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Domain.dll",
+      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Core.dll",
       "SourceId": "BlazorWASM",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Domain.dll",
+      "RelativePath": "_framework/Core.dll",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -152,15 +152,15 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\Domain\\bin\\Debug\\net6.0\\Domain.dll"
+      "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\Core\\bin\\Debug\\net6.0\\Core.dll"
     },
     {
-      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Domain.pdb",
+      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Core.pdb",
       "SourceId": "BlazorWASM",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Domain.pdb",
+      "RelativePath": "_framework/Core.pdb",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -169,7 +169,7 @@
       "AssetTraitValue": "symbol",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\Domain\\bin\\Debug\\net6.0\\Domain.pdb"
+      "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\Core\\bin\\Debug\\net6.0\\Core.pdb"
     },
     {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\dotnet.6.0.12.esmh8u4mqh.js",
@@ -424,7 +424,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Aitana\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\lib\\netstandard2.0\\Microsoft.Extensions.Configuration.Abstractions.dll"
+      "OriginalItemSpec": "C:\\Users\\Aitana\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\lib\\net6.0\\Microsoft.Extensions.Configuration.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Binder.dll",
@@ -441,7 +441,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Aitana\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\lib\\netstandard2.0\\Microsoft.Extensions.Configuration.Binder.dll"
+      "OriginalItemSpec": "C:\\Users\\Aitana\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\lib\\net6.0\\Microsoft.Extensions.Configuration.Binder.dll"
     },
     {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.dll",
@@ -509,7 +509,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Aitana\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\lib\\net6.0\\Microsoft.Extensions.DependencyInjection.Abstractions.dll"
+      "OriginalItemSpec": "C:\\Users\\Aitana\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\lib\\net6.0\\Microsoft.Extensions.DependencyInjection.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.dll",
@@ -526,7 +526,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Aitana\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\lib\\net6.0\\Microsoft.Extensions.DependencyInjection.dll"
+      "OriginalItemSpec": "C:\\Users\\Aitana\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\lib\\net6.0\\Microsoft.Extensions.DependencyInjection.dll"
     },
     {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Abstractions.dll",
@@ -580,6 +580,23 @@
       "OriginalItemSpec": "C:\\Users\\Aitana\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\lib\\net6.0\\Microsoft.Extensions.FileSystemGlobbing.dll"
     },
     {
+      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Http.dll",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Http.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Aitana\\.nuget\\packages\\microsoft.extensions.http\\8.0.0\\lib\\net6.0\\Microsoft.Extensions.Http.dll"
+    },
+    {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
       "SourceId": "BlazorWASM",
       "SourceType": "Computed",
@@ -594,7 +611,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Aitana\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.3\\lib\\net6.0\\Microsoft.Extensions.Logging.Abstractions.dll"
+      "OriginalItemSpec": "C:\\Users\\Aitana\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\lib\\net6.0\\Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.dll",
@@ -611,7 +628,24 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Aitana\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\lib\\netstandard2.1\\Microsoft.Extensions.Logging.dll"
+      "OriginalItemSpec": "C:\\Users\\Aitana\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\lib\\net6.0\\Microsoft.Extensions.Logging.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.ConfigurationExtensions.dll",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Options.ConfigurationExtensions.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Aitana\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\lib\\net6.0\\Microsoft.Extensions.Options.ConfigurationExtensions.dll"
     },
     {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.dll",
@@ -628,7 +662,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Aitana\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\lib\\netstandard2.1\\Microsoft.Extensions.Options.dll"
+      "OriginalItemSpec": "C:\\Users\\Aitana\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\lib\\net6.0\\Microsoft.Extensions.Options.dll"
     },
     {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.dll",
@@ -645,7 +679,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Aitana\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\lib\\net6.0\\Microsoft.Extensions.Primitives.dll"
+      "OriginalItemSpec": "C:\\Users\\Aitana\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\lib\\net6.0\\Microsoft.Extensions.Primitives.dll"
     },
     {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
@@ -3555,6 +3589,23 @@
       "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ComponentModel.TypeConverter.dll"
     },
     {
+      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\+D9TGxS0.gz",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Core.pdb.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Core.pdb",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Core.pdb"
+    },
+    {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\+EdmoB9F.gz",
       "SourceId": "BlazorWASM",
       "SourceType": "Computed",
@@ -4235,6 +4286,23 @@
       "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.XmlDocument.dll"
     },
     {
+      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\a1j7SLFt.gz",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.dll"
+    },
+    {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\ANK4X3fu.gz",
       "SourceId": "BlazorWASM",
       "SourceType": "Computed",
@@ -4284,23 +4352,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.Process.dll"
-    },
-    {
-      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\BOz2QYpk.gz",
-      "SourceId": "BlazorWASM",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Domain.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Domain.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Domain.dll"
     },
     {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\Bp2I330Z.gz",
@@ -4420,6 +4471,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Linq.Parallel.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\cL6xt+ty.gz",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.dll"
     },
     {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\cRrx7D3X.gz",
@@ -4641,6 +4709,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Private.Runtime.InteropServices.JavaScript.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\EocNhyGD.gz",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Options.ConfigurationExtensions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.ConfigurationExtensions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.ConfigurationExtensions.dll"
     },
     {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\EQ+JDPHA.gz",
@@ -4915,6 +5000,23 @@
       "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Private.CoreLib.dll"
     },
     {
+      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\hM2FW+tx.gz",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Logging.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.dll"
+    },
+    {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\hOKuAjNY.gz",
       "SourceId": "BlazorWASM",
       "SourceType": "Computed",
@@ -5017,23 +5119,6 @@
       "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Windows.dll"
     },
     {
-      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\iQBuHFD6.gz",
-      "SourceId": "BlazorWASM",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll"
-    },
-    {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\J2Dce5gG.gz",
       "SourceId": "BlazorWASM",
       "SourceType": "Computed",
@@ -5100,6 +5185,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Configuration.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\jM7ikwaN.gz",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Core.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Core.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Core.dll"
     },
     {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\jqy1MCQG.gz",
@@ -5357,23 +5459,6 @@
       "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.Primitives.dll"
     },
     {
-      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\McurmHSF.gz",
-      "SourceId": "BlazorWASM",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.dll"
-    },
-    {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\MikT5B98.gz",
       "SourceId": "BlazorWASM",
       "SourceType": "Computed",
@@ -5544,23 +5629,6 @@
       "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Abstractions.dll"
     },
     {
-      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\OOSDZX5X.gz",
-      "SourceId": "BlazorWASM",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Domain.pdb.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Domain.pdb",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Domain.pdb"
-    },
-    {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\OOwbYFgY.gz",
       "SourceId": "BlazorWASM",
       "SourceType": "Computed",
@@ -5629,6 +5697,23 @@
       "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ServiceProcess.dll"
     },
     {
+      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\OXR4xe4D.gz",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Configuration.Binder.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Binder.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Binder.dll"
+    },
+    {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\pcFLcnda.gz",
       "SourceId": "BlazorWASM",
       "SourceType": "Computed",
@@ -5644,6 +5729,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.XDocument.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\pOYF55+Z.gz",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Options.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.dll"
     },
     {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\Pr9stH4N.gz",
@@ -5799,6 +5901,23 @@
       "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.WebHeaderCollection.dll"
     },
     {
+      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\Qxf3ozuD.gz",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Configuration.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Abstractions.dll"
+    },
+    {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\RB2bq2kx.gz",
       "SourceId": "BlazorWASM",
       "SourceType": "Computed",
@@ -5848,23 +5967,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Web.HttpUtility.dll"
-    },
-    {
-      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\Rivqs9BR.gz",
-      "SourceId": "BlazorWASM",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Configuration.Binder.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Binder.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Binder.dll"
     },
     {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\RlkdUo2+.gz",
@@ -6037,23 +6139,6 @@
       "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ComponentModel.EventBasedAsync.dll"
     },
     {
-      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\SqV1yoaS.gz",
-      "SourceId": "BlazorWASM",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Primitives.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.dll"
-    },
-    {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\sVdkNmwl.gz",
       "SourceId": "BlazorWASM",
       "SourceType": "Computed",
@@ -6069,6 +6154,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Private.Xml.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\sveH8K69.gz",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Primitives.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.dll"
     },
     {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\sxPrvCcm.gz",
@@ -6241,23 +6343,6 @@
       "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.Channels.dll"
     },
     {
-      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\unb6rnST.gz",
-      "SourceId": "BlazorWASM",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Configuration.Abstractions.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Abstractions.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Abstractions.dll"
-    },
-    {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\UPnYQbpj.gz",
       "SourceId": "BlazorWASM",
       "SourceType": "Computed",
@@ -6275,6 +6360,23 @@
       "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.TraceSource.dll"
     },
     {
+      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\vawoN7Cv.gz",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll"
+    },
+    {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\vDwSiJvn.gz",
       "SourceId": "BlazorWASM",
       "SourceType": "Computed",
@@ -6290,23 +6392,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll"
-    },
-    {
-      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\Vj7xty47.gz",
-      "SourceId": "BlazorWASM",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\Vjqyvstt.gz",
@@ -6341,23 +6426,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.FileSystem.AccessControl.dll"
-    },
-    {
-      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\VTzUxDv4.gz",
-      "SourceId": "BlazorWASM",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Logging.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.dll"
     },
     {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\W0acnGE9.gz",
@@ -6477,6 +6545,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Loader.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\wlkhMd15.gz",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Http.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Http.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Http.dll"
     },
     {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\WOV+FQ0+.gz",
@@ -6785,23 +6870,6 @@
       "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.Tools.dll"
     },
     {
-      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\YjjkEnox.gz",
-      "SourceId": "BlazorWASM",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Options.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.dll"
-    },
-    {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\yV1yvBXK.gz",
       "SourceId": "BlazorWASM",
       "SourceType": "Computed",
@@ -6987,6 +7055,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorWASM.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\wwwroot\\appsettings.Development.json",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "appsettings.Development.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "settings",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\appsettings.Development.json"
+    },
+    {
+      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\wwwroot\\appsettings.json",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "appsettings.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "settings",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\appsettings.json"
     },
     {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\BlazorWASM\\wwwroot\\css\\app.css",
@@ -7293,23 +7395,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\background.png"
-    },
-    {
-      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\ComponentsLib\\wwwroot\\exampleJsInterop.js",
-      "SourceId": "ComponentsLib",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\ComponentsLib\\wwwroot\\",
-      "BasePath": "_content/ComponentsLib",
-      "RelativePath": "exampleJsInterop.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
     }
   ]
 }

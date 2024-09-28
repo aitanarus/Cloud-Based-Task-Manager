@@ -1,5 +1,6 @@
 ﻿using BlazorWASM.HttpClients.Interfaces;
-using Shared.DTOs;
+using Core.DTOs;
+using Core.IBase;
 using System.Net.Http.Json;
 using System.Text.Json;
 

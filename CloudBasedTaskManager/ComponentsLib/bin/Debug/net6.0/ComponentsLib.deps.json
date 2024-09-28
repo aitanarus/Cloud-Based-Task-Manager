@@ -8,8 +8,8 @@
     ".NETCoreApp,Version=v6.0": {
       "ComponentsLib/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.12",
-          "Shared": "1.0.0"
+          "Core": "1.0.0",
+          "Microsoft.AspNetCore.Components.Web": "6.0.12"
         },
         "runtime": {
           "ComponentsLib.dll": {}
@@ -143,9 +143,9 @@
         }
       },
       "System.Runtime.CompilerServices.Unsafe/6.0.0": {},
-      "Shared/1.0.0": {
+      "Core/1.0.0": {
         "runtime": {
-          "Shared.dll": {}
+          "Core.dll": {}
         }
       }
     }
@@ -254,7 +254,7 @@
       "path": "system.runtime.compilerservices.unsafe/6.0.0",
       "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
     },
-    "Shared/1.0.0": {
+    "Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

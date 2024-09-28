@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Core.DTOs;
+using Microsoft.AspNetCore.Mvc;
 
 namespace WebAPI.Controllers
 {
