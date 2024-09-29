@@ -1,7 +1,8 @@
 ﻿using Core.DTOs;
 using Core.IBase;
-using System.Data.Entity;
+using Microsoft.EntityFrameworkCore;
 
+..
 namespace Infrastructure.Interfaces
 {
     public interface IEfcTaskRepository : IBaseRepository<TaskDTO>
@@ -9,31 +10,45 @@ namespace Infrastructure.Interfaces
         //Additional Methods Can be specified
     }
 
-    public class ApplicationDbContext : DbContext
-    {
-        /*public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
+    public class AppDbContext : DbContext
+    { 
+        public DbSet<TaskDTO> Tasks { get; set; }
+
+        public AppDbContext(DbContextOptions<AppDbContext> options)
             : base(options)
         {
         }
-        */
-
-        // Define your DbSets here
-        public DbSet<TaskDTO> Tasks { get; set; }
-
-        // You can override OnModelCreating if you need to customize the model creation
-        /*protected override void OnModelCreating(ModelBuilder modelBuilder)
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            base.OnModelCreating(modelBuilder);
+            if (!optionsBuilder.IsConfigured)
+            {
+                // Replace with your actual SQL Server connection string
+                optionsBuilder.UseSqlServer("Server=LAPTOP-DKP990JS;Database=CloudBasedTaskManagement;User Id=YourUsername;Password=YourPassword;");
+            }
+        }
 
-            // You can configure entity properties and relationships here
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
             modelBuilder.Entity<TaskDTO>(entity =>
             {
-                entity.HasKey(e => e.Id); // Assuming Id is the primary key
-                entity.Property(e => e.Title).IsRequired().HasMaxLength(100);
-                entity.Property(e => e.Description).HasMaxLength(500);
-                // Configure other properties as needed
+                entity.HasKey(e => e.Id); 
+
+                entity.Property(e => e.Title)
+                      .IsRequired()
+                      .HasMaxLength(100); 
+
+                entity.Property(e => e.Description)
+                      .HasMaxLength(500); 
+
+                entity.Property(e => e.DueDate)
+                      .IsRequired();
+
+                entity.Property(e => e.Priority)
+                      .IsRequired(); 
+
+                entity.Property(e => e.Status)
+                      .IsRequired();
             });
         }
-        */
     }
 }

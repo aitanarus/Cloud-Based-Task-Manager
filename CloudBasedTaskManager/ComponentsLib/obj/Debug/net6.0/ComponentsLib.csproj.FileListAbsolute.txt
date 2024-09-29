@@ -19,3 +19,5 @@ C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\C
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\ComponentsLib\bin\Debug\net6.0\Core.dll
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\ComponentsLib\bin\Debug\net6.0\Core.pdb
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\ComponentsLib\obj\Debug\net6.0\ComponentsLib.csproj.CopyComplete
+C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\ComponentsLib\obj\Debug\net6.0\scopedcss\TaskCard.razor.rz.scp.css
+C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\ComponentsLib\obj\Debug\net6.0\scopedcss\TaskForm.razor.rz.scp.css

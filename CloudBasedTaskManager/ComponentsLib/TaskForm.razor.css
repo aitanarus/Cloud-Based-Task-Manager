@@ -1,0 +1,63 @@
+<style >
+/* Form Styling */
+form#taskForm {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.form-control, .form-label {
+    transition: all 0.3s ease-in-out;
+}
+
+    /* Hover and Focus Effects */
+    .form-control:focus {
+        border-color: #80bdff;
+        box-shadow: 0 0 5px rgba(128, 189, 255, 0.5);
+    }
+
+/* Button Styling */
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+}
+
+    .btn-primary:hover {
+        background-color: #0056b3;
+        border-color: #004b8b;
+        transform: translateY(-2px);
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    }
+
+.btn-block {
+    width: 100%;
+}
+
+/* Card Shadows */
+.shadow-lg {
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175);
+}
+
+/* Rounded Corners */
+.rounded {
+    border-radius: 0.5rem;
+}
+
+/* Padding for Form */
+.p-4 {
+    padding: 2rem;
+}
+
+/* Responsive Spacing */
+.mb-3 {
+    margin-bottom: 1rem;
+}
+
+.mb-4 {
+    margin-bottom: 1.5rem;
+}
+
+</style >

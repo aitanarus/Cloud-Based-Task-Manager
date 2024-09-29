@@ -1,0 +1,45 @@
+﻿@using Core.DTOs
+
+<div class="card mb-3 task-card shadow-sm">
+    <div class="row g-0">
+        <div class="col-md-4">
+            <img src="https://via.placeholder.com/150" class="img-fluid rounded-start" alt="Task Image" />
+        </div>
+        <div class="col-md-8">
+            <div class="card-body">
+                <h5 class="card-title font-weight-bold">@Task.Title</h5>
+                <p class="card-text">@Task.Description</p>
+                <div class="d-flex justify-content-between">
+                    <p class="card-text">
+                        <small class="text-muted">Due: @Task.DueDate.ToString("MM/dd/yyyy")</small>
+                    </p>
+                    <p class="card-text">
+                        <small class="text-muted">Status: @(Task.Status)</small>
+                    </p>
+                </div>
+                <p class="card-text">
+                    <small class="text-muted">Assigned To: @Task.AssignedTo</small>
+                </p>
+                <p class="card-text">
+                    <span class="badge @(GetPriorityBadgeClass(Task.Priority))">@Task.Priority</span>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public TaskDTO Task { get; set; }
+
+    private string GetPriorityBadgeClass(TaskPriority priority)
+    {
+        return priority switch
+        {
+            TaskPriority.Low => "bg-success text-white",
+            TaskPriority.Medium => "bg-warning text-dark",
+            TaskPriority.High => "bg-danger text-white",
+            _ => ""
+        };
+    }
+}

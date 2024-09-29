@@ -15,10 +15,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\ComponentsLib
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Aitana/OneDrive - ViaUC/Skrivebord/Portfolio/Cloud-Based-Task-Manager/CloudBasedTaskManager/ComponentsLib/TaskForm.razor]
-build_metadata.AdditionalFiles.TargetPath = VGFza0Zvcm0ucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Aitana/OneDrive - ViaUC/Skrivebord/Portfolio/Cloud-Based-Task-Manager/CloudBasedTaskManager/ComponentsLib/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -26,3 +22,11 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/Aitana/OneDrive - ViaUC/Skrivebord/Portfolio/Cloud-Based-Task-Manager/CloudBasedTaskManager/ComponentsLib/Component1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50MS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-1ro4i9xf5d
+
+[C:/Users/Aitana/OneDrive - ViaUC/Skrivebord/Portfolio/Cloud-Based-Task-Manager/CloudBasedTaskManager/ComponentsLib/TaskCard.razor]
+build_metadata.AdditionalFiles.TargetPath = VGFza0NhcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-aossny7kl2
+
+[C:/Users/Aitana/OneDrive - ViaUC/Skrivebord/Portfolio/Cloud-Based-Task-Manager/CloudBasedTaskManager/ComponentsLib/TaskForm.razor]
+build_metadata.AdditionalFiles.TargetPath = VGFza0Zvcm0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-7n5zedfylg

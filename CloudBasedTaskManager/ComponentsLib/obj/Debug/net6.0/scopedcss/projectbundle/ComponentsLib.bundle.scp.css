@@ -5,3 +5,89 @@
     margin: 1em 0;
     background-image: url('background.png');
 }
+/* _content/ComponentsLib/TaskCard.razor.rz.scp.css */
+.task-card[b-aossny7kl2] {
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for transform and shadow */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    overflow: hidden; /* Prevents overflow on hover */
+}
+
+    .task-card:hover[b-aossny7kl2] {
+        transform: translateY(-5px); /* Move the card up slightly */
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); /* Add a shadow effect */
+    }
+
+    .task-card img[b-aossny7kl2] {
+        border-top-left-radius: .25rem;
+        border-bottom-left-radius: .25rem;
+        height: auto; /* Ensures image maintains aspect ratio */
+    }
+
+.badge[b-aossny7kl2] {
+    font-size: 0.9em;
+    padding: 0.5em 0.8em;
+}
+/* _content/ComponentsLib/TaskForm.razor.rz.scp.css */
+<style >
+/* Form Styling */
+form#taskForm[b-7n5zedfylg] {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.form-control[b-7n5zedfylg], .form-label[b-7n5zedfylg] {
+    transition: all 0.3s ease-in-out;
+}
+
+    /* Hover and Focus Effects */
+    .form-control:focus[b-7n5zedfylg] {
+        border-color: #80bdff;
+        box-shadow: 0 0 5px rgba(128, 189, 255, 0.5);
+    }
+
+/* Button Styling */
+.btn-primary[b-7n5zedfylg] {
+    background-color: #007bff;
+    border-color: #007bff;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+}
+
+    .btn-primary:hover[b-7n5zedfylg] {
+        background-color: #0056b3;
+        border-color: #004b8b;
+        transform: translateY(-2px);
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    }
+
+.btn-block[b-7n5zedfylg] {
+    width: 100%;
+}
+
+/* Card Shadows */
+.shadow-lg[b-7n5zedfylg] {
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175);
+}
+
+/* Rounded Corners */
+.rounded[b-7n5zedfylg] {
+    border-radius: 0.5rem;
+}
+
+/* Padding for Form */
+.p-4[b-7n5zedfylg] {
+    padding: 2rem;
+}
+
+/* Responsive Spacing */
+.mb-3[b-7n5zedfylg] {
+    margin-bottom: 1rem;
+}
+
+.mb-4[b-7n5zedfylg] {
+    margin-bottom: 1.5rem;
+}
+
+</style[b-7n5zedfylg] >

@@ -1,0 +1,21 @@
+.task-card[b-aossny7kl2] {
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for transform and shadow */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    overflow: hidden; /* Prevents overflow on hover */
+}
+
+    .task-card:hover[b-aossny7kl2] {
+        transform: translateY(-5px); /* Move the card up slightly */
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); /* Add a shadow effect */
+    }
+
+    .task-card img[b-aossny7kl2] {
+        border-top-left-radius: .25rem;
+        border-bottom-left-radius: .25rem;
+        height: auto; /* Ensures image maintains aspect ratio */
+    }
+
+.badge[b-aossny7kl2] {
+    font-size: 0.9em;
+    padding: 0.5em 0.8em;
+}
