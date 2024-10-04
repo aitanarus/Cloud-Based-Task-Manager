@@ -1,0 +1,3 @@
+dotnet ef migrations add InitialCreate --project "C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\Infrastructure\Infrastructure.csproj" --startup-project "C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\WebAPI\WebAPI.csproj"
+dotnet ef database update --project "C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\Infrastructure\Infrastructure.csproj" --startup-project "C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\WebAPI\WebAPI.csproj"
+

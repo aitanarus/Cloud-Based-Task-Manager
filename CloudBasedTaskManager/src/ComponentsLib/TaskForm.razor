@@ -1,0 +1,73 @@
+﻿@using Core.DTOs
+
+<form id="taskForm" class="p-4 shadow-lg bg-white rounded" @onsubmit="HandleSubmit">
+    <div class="form-group mb-3">
+        <label for="taskTitle" class="form-label">Task Title</label>
+        <input type="text" class="form-control" @bind="task.Title" placeholder="Enter task title" required />
+    </div>
+
+    <div class="form-group mb-3">
+        <label for="taskDescription" class="form-label">Description</label>
+        <textarea class="form-control" @bind="task.Description" rows="3" placeholder="Enter task description" required></textarea>
+    </div>
+
+    <div class="form-group mb-3">
+        <label for="taskDueDate" class="form-label">Due Date</label>
+        <input type="datetime-local" class="form-control" @bind="task.DueDate" min="@MinDate" required />
+    </div>
+
+    <div class="form-group mb-3">
+        <label for="taskPriority" class="form-label">Priority</label>
+        <select class="form-control">
+            <option value="0">Low</option>
+            <option value="1">Medium</option>
+            <option value="2">High</option>
+        </select>
+    </div>
+
+    <div class="form-group mb-3">
+        <label for="taskStatus" class="form-label">Status</label>
+        <select class="form-control">
+            <option value="0">Not Started</option>
+            <option value="1">In Progress</option>
+            <option value="2">Completed</option>
+        </select>
+    </div>
+
+    <div class="form-group mb-4">
+        <label for="assignedTo" class="form-label">Assigned To</label>
+        <input type="text" class="form-control" @bind="task.AssignedTo" placeholder="Enter assignee's name" required />
+    </div>
+
+    <button type="submit" class="btn btn-primary btn-block">Create Task</button>
+</form>
+
+@code {
+    [Parameter] public EventCallback<TaskDTO> OnButtonClick { get; set; }
+
+    private string MinDate => DateTime.Now.ToString("yyyy-MM-ddTHH:mm");
+
+    private TaskDTO task = new TaskDTO
+        {
+            DueDate = DateTime.Now,
+        };
+
+    private async Task PopulateForm()
+    {
+        foreach (string name in Enum.GetNames(typeof(TaskPriority)))
+        {
+            
+        }
+
+        foreach (string name in Enum.GetNames(typeof(Core.DTOs.TaskStatus)))
+        {
+            
+        }
+    }
+
+    private async Task HandleSubmit()
+    {
+        // Invoke the callback to notify the parent with the TaskDTO
+        await OnButtonClick.InvokeAsync(task);
+    }
+}

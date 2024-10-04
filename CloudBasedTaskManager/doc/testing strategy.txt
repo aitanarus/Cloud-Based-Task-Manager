@@ -1,0 +1,16 @@
+Testing Strategy:
+Unit Tests:
+
+Core (Models): Validation and business logic tests.
+Infrastructure (Repositories): Test database interactions using mocks or in-memory databases.
+Blazor Components: Test UI logic and event handling with bUnit.
+Integration Tests:
+
+Services: Test interaction with repositories.
+API Controllers: Test the interaction between the API and services using TestServer.
+End-to-End (E2E) Tests:
+
+Use Playwright or Selenium to ensure the Blazor front end, API, and database interactions work correctly.
+Test Coverage:
+
+Use Coverlet and ReportGenerator to monitor test coverage and ensure your code is well tested.
