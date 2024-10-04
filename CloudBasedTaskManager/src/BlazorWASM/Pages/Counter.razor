@@ -1,0 +1,65 @@
+﻿@page "/counter"
+@using BlazorWASM.HttpClients.Interfaces
+@using ComponentsLib
+@using Core.DTOs
+@using Core.IBase
+
+<PageTitle>Counter</PageTitle>
+
+<ComponentsLib.TaskForm OnButtonClick="HandleMyComponentButtonClick" />
+
+<ComponentsLib.ErrorMessageCard ErrorMessage="@errorMessage" OnClose="@CloseErrorCard" />
+
+@code {
+    [Inject]
+    private ITaskService TaskService { get; set; }
+
+    private string errorMessage;
+
+    private async Task HandleMyComponentButtonClick(TaskDTO task)
+    {
+        // Validate task data
+        var validationErrors = ValidateForm(task);
+        if (validationErrors.Count > 0)
+        {
+            errorMessage = string.Join(", ", validationErrors);
+            return;
+        }
+
+        try
+        {
+            var createdTask = await TaskService.CreateAsync(task);
+            Console.WriteLine($"Task created successfully with ID: {createdTask.Id}");
+            errorMessage = null;
+        }
+        catch (Exception ex)
+        {
+            errorMessage = ex.Message;
+            Console.WriteLine($"Error creating task: {ex.Message}");
+        }
+    }
+
+    private List<string> ValidateForm(TaskDTO task)
+    {
+        var errors = new List<string>();
+
+        if (string.IsNullOrWhiteSpace(task.Title))
+            errors.Add("Task title is required.");
+
+        if (task.DueDate == DateTime.MinValue)
+            errors.Add("Due date is required.");
+
+        if (task.Priority == TaskPriority.Low)
+            errors.Add("Priority is required.");
+
+        if (string.IsNullOrWhiteSpace(task.AssignedTo))
+            errors.Add("Assigned To is required.");
+
+        return errors;
+    }
+
+    private void CloseErrorCard()
+    {
+        errorMessage = null;
+    }
+}

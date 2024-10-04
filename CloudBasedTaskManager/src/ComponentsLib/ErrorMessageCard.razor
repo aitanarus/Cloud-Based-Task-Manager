@@ -1,0 +1,34 @@
+﻿@using Microsoft.AspNetCore.Components
+
+<div class="modal fade @(!string.IsNullOrEmpty(ErrorMessage) ? "show" : "")" tabindex="-1" role="dialog" style="display:@(!string.IsNullOrEmpty(ErrorMessage) ? "block" : "none")">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Error Occurred</h5>
+                <button type="button" class="close" aria-label="Close" @onclick="OnCloseClick">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <h6 class="modal-subtitle">Something went wrong!</h6>
+                <p>@ErrorMessage</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" @onclick="OnCloseClick">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public string ErrorMessage { get; set; }
+
+    [Parameter]
+    public EventCallback OnClose { get; set; }
+
+    private async Task OnCloseClick()
+    {
+        await OnClose.InvokeAsync(null); 
+    }
+}
