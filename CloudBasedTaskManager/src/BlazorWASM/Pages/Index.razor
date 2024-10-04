@@ -20,11 +20,11 @@
     // Sample list of TaskDTOs
     private List<TaskDTO> tasks = new List<TaskDTO>
     {
-        new TaskDTO(1, "Complete Project Report", "Finalize and submit the project report by the end of the week.", DateTime.Now.AddDays(5), TaskPriority.Low, "John Doe"),
-        new TaskDTO(2, "Meeting with Client", "Discuss project requirements and deadlines with the client.", DateTime.Now.AddDays(2), TaskPriority.High, "Jane Smith"),
-        new TaskDTO(3, "Code Review", "Review the latest code changes made by the development team.", DateTime.Now.AddDays(1), TaskPriority.Medium, "Bob Johnson"),
-        new TaskDTO(4, "Deploy Application", "Deploy the latest version of the application to production.", DateTime.Now.AddDays(3), TaskPriority.Low, "Alice Davis"),
-        new TaskDTO(5, "Update Documentation", "Update the project documentation with the latest changes.", DateTime.Now.AddDays(7), TaskPriority.Medium, "Charlie Brown"),
-        new TaskDTO(6, "Team Standup", "Daily standup meeting with the development team.", DateTime.Now.AddDays(0), TaskPriority.Low, "Diana Prince")
+        new TaskDTO(1, "Complete Project Report", "Finalize and submit the project report by the end of the week.", DateTime.Now.AddDays(5), TaskPriority.Low, "John Doe", Core.DTOs.TaskStatus.Done),
+        new TaskDTO(2, "Meeting with Client", "Discuss project requirements and deadlines with the client.", DateTime.Now.AddDays(2), TaskPriority.High, "Jane Smith", Core.DTOs.TaskStatus.ToDo),
+        new TaskDTO(3, "Code Review", "Review the latest code changes made by the development team.", DateTime.Now.AddDays(1), TaskPriority.Medium, "Bob Johnson", Core.DTOs.TaskStatus.Done),
+        new TaskDTO(4, "Deploy Application", "Deploy the latest version of the application to production.", DateTime.Now.AddDays(3), TaskPriority.Low, "Alice Davis", Core.DTOs.TaskStatus.InProgress),
+        new TaskDTO(5, "Update Documentation", "Update the project documentation with the latest changes.", DateTime.Now.AddDays(7), TaskPriority.Medium, "Charlie Brown", Core.DTOs.TaskStatus.Done),
+        new TaskDTO(6, "Team Standup", "Daily standup meeting with the development team.", DateTime.Now.AddDays(0), TaskPriority.Low, "Diana Prince", Core.DTOs.TaskStatus.ToDo)
     };
 }

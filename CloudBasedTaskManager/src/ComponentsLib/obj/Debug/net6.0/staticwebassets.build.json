@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KilNx2UYdgfi6FUCvuu7Qhif3dK9vZETg9XEMWGsP2g=",
+  "Hash": "QUxdy0rY0lW+vUJFJO8pIOHFQD1cT9KAbvjv8kPkfDY=",
   "Source": "ComponentsLib",
   "BasePath": "_content/ComponentsLib",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ComponentsLib\\wwwroot",
       "Source": "ComponentsLib",
-      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\ComponentsLib\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\src\\ComponentsLib\\wwwroot\\",
       "BasePath": "_content/ComponentsLib",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\ComponentsLib\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ComponentsLib.styles.css",
+      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\src\\ComponentsLib\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ComponentsLib.styles.css",
       "SourceId": "ComponentsLib",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\ComponentsLib\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\src\\ComponentsLib\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ComponentsLib",
       "RelativePath": "ComponentsLib.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\ComponentsLib\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ComponentsLib.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\src\\ComponentsLib\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ComponentsLib.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\ComponentsLib\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ComponentsLib.bundle.scp.css",
+      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\src\\ComponentsLib\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ComponentsLib.bundle.scp.css",
       "SourceId": "ComponentsLib",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\ComponentsLib\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\src\\ComponentsLib\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ComponentsLib",
       "RelativePath": "ComponentsLib.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\ComponentsLib\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ComponentsLib.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\src\\ComponentsLib\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ComponentsLib.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\ComponentsLib\\wwwroot\\background.png",
+      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\src\\ComponentsLib\\wwwroot\\background.png",
       "SourceId": "ComponentsLib",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\ComponentsLib\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\src\\ComponentsLib\\wwwroot\\",
       "BasePath": "_content/ComponentsLib",
       "RelativePath": "background.png",
       "AssetKind": "All",

@@ -1,0 +1,2 @@
+Code Flow: Developers work in feature branches in GitHub, and upon merging, GitHub Actions can trigger tests and deploy to a staging environment.
+Release Management: Once everything is validated in staging, you can use Azure DevOps to promote those changes to production, ensuring a controlled and secure release.
