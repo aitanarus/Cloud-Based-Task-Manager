@@ -1,0 +1,1 @@
+C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\publish\web.config
