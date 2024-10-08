@@ -1,0 +1,6 @@
+‹*€{
+  "ApiEndpoints": {
+    "TaskService": "https://localhost:7104/api/task"
+  }
+}
+
