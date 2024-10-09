@@ -830,7 +830,6 @@ C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\C
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Release\net6.0\staticwebassets.build.json
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Release\net6.0\staticwebassets.development.json
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Release\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
-C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Release\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Release\net6.0\scopedcss\bundle\BlazorWASM.styles.css
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Release\net6.0\scopedcss\projectbundle\BlazorWASM.bundle.scp.css
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Release\net6.0\BlazorWASM.csproj.CopyComplete

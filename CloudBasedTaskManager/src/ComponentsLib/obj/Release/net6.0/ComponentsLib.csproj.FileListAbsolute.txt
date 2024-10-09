@@ -21,3 +21,4 @@ C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\C
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\ComponentsLib\obj\Release\net6.0\refint\ComponentsLib.dll
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\ComponentsLib\obj\Release\net6.0\ComponentsLib.pdb
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\ComponentsLib\obj\Release\net6.0\ref\ComponentsLib.dll
+C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\ComponentsLib\obj\Release\net6.0\scopedcss\NavMenu.razor.rz.scp.css
