@@ -840,6 +840,7 @@ C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\C
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\BlazorWASM\obj\Debug\net6.0\build-gz\EocNhyGD.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\BlazorBootstrap.dll
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\BlazorWASM.dll
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\BlazorWASM.pdb
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\ComponentsLib.dll
@@ -1045,19 +1046,19 @@ C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\C
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Reader.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Security.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
-C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Net.Requests.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll.gz
-C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
@@ -1072,7 +1073,6 @@ C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\C
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Net.Primitives.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll.gz
-C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Net.dll.gz
@@ -1087,6 +1087,7 @@ C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\C
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
@@ -1127,6 +1128,7 @@ C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\C
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\BlazorBootstrap.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Private.Uri.dll.gz
@@ -1134,9 +1136,11 @@ C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\C
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Net.Mail.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.12.esmh8u4mqh.js.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Configuration.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
@@ -1153,7 +1157,6 @@ C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\C
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Collections.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
-C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
@@ -1176,6 +1179,7 @@ C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\C
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\BlazorWASM.pdb.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Data.Common.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
@@ -1203,7 +1207,6 @@ C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\C
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Memory.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
-C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Channels.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\Core.pdb.gz
@@ -1220,7 +1223,6 @@ C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\C
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Http.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
-C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.ObjectModel.dll.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.dll.gz
@@ -1253,6 +1255,7 @@ C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\C
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\BlazorWASM.staticwebassets.runtime.json
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\BlazorWASM.dll
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\BlazorWASM.pdb
+C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\BlazorBootstrap.dll
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
@@ -1461,12 +1464,13 @@ C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\C
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\BlazorWASM.AssemblyInfo.cs
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\BlazorWASM.csproj.CoreCompileInputs.cache
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\BlazorWASM.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\build-gz\2fhJbAnr.gz
-C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\build-gz\MikT5B98.gz
-C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\build-gz\6Z0p71uN.gz
-C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\build-gz\0gegRFzz.gz
+C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\build-gz\HLjCpYOP.gz
+C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\build-gz\2Azfq7Xm.gz
+C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\build-gz\JhhrjOXF.gz
+C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\build-gz\qBb0qo2X.gz
+C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\build-gz\IVggxJ0a.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\build-gz\vDwSiJvn.gz
-C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\build-gz\wOXavV8B.gz
+C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\build-gz\aTSoU2Ls.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\build-gz\KPW1f8J1.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\build-gz\Qxf3ozuD.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\build-gz\OXR4xe4D.gz
@@ -1483,7 +1487,7 @@ C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\C
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\build-gz\pOYF55+Z.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\build-gz\EocNhyGD.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\build-gz\sveH8K69.gz
-C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\build-gz\TY2WP2PC.gz
+C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\build-gz\+aLhxhV2.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\build-gz\S9NEnGLv.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\build-gz\Gg8P35eG.gz
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\build-gz\1kMZSEDt.gz
@@ -1670,7 +1674,6 @@ C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\C
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
-C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\scopedcss\bundle\BlazorWASM.styles.css
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\scopedcss\projectbundle\BlazorWASM.bundle.scp.css
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\BlazorWASM\obj\Debug\net6.0\BlazorWASM.csproj.CopyComplete

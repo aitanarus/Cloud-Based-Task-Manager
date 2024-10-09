@@ -1,27 +1,19 @@
 ﻿@inherits LayoutComponentBase
 
-<div class="page">
-    <div class="sidebar" style="@IconMenuCssClass">
-        <ComponentsLib.NavMenu ShowIconMenu="ToggleIconMenu"/>
-    </div>
+<PageTitle>Taskly</PageTitle>
 
-    <main>
-        <div class="top-row px-4">
-            <a href="https://docs.microsoft.com/aspnet/" target="_blank">About</a>
-        </div>
+<ComponentsLib.TopNavBar />
 
-        <article class="content px-4">
+<main>
+    <article class="content px-4">
+        <div class="py-2">
             @Body
-        </article>
-    </main>
-</div>
+        </div>
+    </article>
+</main>
 
-@code{
-    private bool _iconMenuActive { get; set; }
-    private string? IconMenuCssClass => _iconMenuActive ? "width: 80px;" : null;
+<ComponentsLib.BottomNavBar />
 
-    protected void ToggleIconMenu(bool iconMenuActive)
-    {
-        _iconMenuActive = iconMenuActive;
-    }
+@code {
+   
 }

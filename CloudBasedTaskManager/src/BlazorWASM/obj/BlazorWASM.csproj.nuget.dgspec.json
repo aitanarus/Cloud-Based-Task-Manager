@@ -52,6 +52,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Blazor.Bootstrap": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
               "version": "[6.0.12, )"
@@ -146,9 +150,13 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Blazor.Bootstrap": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
             "Microsoft.AspNetCore.Components.Web": {
               "target": "Package",
-              "version": "[6.0.12, )"
+              "version": "[6.0.29, )"
             }
           },
           "imports": [
