@@ -1,8 +1,8 @@
 ﻿@inherits LayoutComponentBase
 
 <div class="page">
-    <div class="sidebar">
-        <ComponentsLib.NavMenu />
+    <div class="sidebar" style="@IconMenuCssClass">
+        <ComponentsLib.NavMenu ShowIconMenu="ToggleIconMenu"/>
     </div>
 
     <main>
@@ -15,3 +15,13 @@
         </article>
     </main>
 </div>
+
+@code{
+    private bool _iconMenuActive { get; set; }
+    private string? IconMenuCssClass => _iconMenuActive ? "width: 80px;" : null;
+
+    protected void ToggleIconMenu(bool iconMenuActive)
+    {
+        _iconMenuActive = iconMenuActive;
+    }
+}
