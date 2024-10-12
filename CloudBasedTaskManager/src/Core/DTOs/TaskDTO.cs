@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Core.Enum;
+using System.ComponentModel.DataAnnotations;
 
 namespace Core.DTOs
 {
@@ -19,46 +20,34 @@ namespace Core.DTOs
         // Due date for the task to be completed
         [Required(ErrorMessage = "Due date is required.")]
         [DataType(DataType.Date)]
-        public DateTime? DueDate { get; set; }  // Change to nullable DateTime
+        public DateTime? DueDate { get; set; }  // Nullable DateTime for optional due date
 
-        // Priority level of the task
-        [Required(ErrorMessage = "Priority is required.")]
-        public TaskPriority Priority { get; set; }
+        // Indicates if the task is completed
+        public TaskState State { get; set; }
 
-        // Status of the task (To Do, In Progress, Done)
-        public TaskStatus Status { get; set; } = TaskStatus.ToDo;
+        // Review or feedback for the task, includes MoodDTO
+        public ReviewDTO Review { get; set; }
 
-        // Optional: Assignee of the task (user ID or name)
-        [StringLength(50, ErrorMessage = "Assignee name cannot exceed 50 characters.")]
-        public string AssignedTo { get; set; }
+        // List of resources related to the task like links, maps directions, etc.
+        public List<ResourceDTO> Resources { get; set; }
 
-        // Parameterless constructor for EF
-        public TaskDTO() { }
+        // Parameterless constructor for EF or serialization
+        public TaskDTO()
+        {
+            Resources = new List<ResourceDTO>();
+            Review = new ReviewDTO(); 
+        }
 
-        // Parameterized constructor
-        public TaskDTO(int id, string title, string description, DateTime? dueDate, TaskPriority priority, string assignedTo, TaskStatus status)
+        // Parameterized constructor for convenience
+        public TaskDTO(int id, string title, string description, DateTime? dueDate, TaskState state, ReviewDTO review, List<ResourceDTO> resources)
         {
             Id = id;
             Title = title;
             Description = description;
             DueDate = dueDate;
-            Priority = priority;
-            AssignedTo = assignedTo;
-            Status = status;
+            State = state;
+            Review = review;
+            Resources = resources;
         }
-    }
-
-    public enum TaskPriority
-    {
-        Low,
-        Medium,
-        High
-    }
-
-    public enum TaskStatus
-    {
-        ToDo,
-        InProgress,
-        Done
     }
 }

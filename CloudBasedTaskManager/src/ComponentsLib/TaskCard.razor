@@ -1,45 +1,54 @@
 ﻿@using Core.DTOs
 
 <div class="card mb-3 task-card shadow-sm">
-    <div class="row g-0">
-        <div class="col-md-4">
-            <img src="https://via.placeholder.com/150" class="img-fluid rounded-start" alt="Task Image" />
-        </div>
-        <div class="col-md-8">
-            <div class="card-body">
-                <h5 class="card-title font-weight-bold">@Task.Title</h5>
-                <p class="card-text">@Task.Description</p>
-                <div class="d-flex justify-content-between">
-                    <p class="card-text">
-                        <small class="text-muted">Due: @Task.DueDate.ToString()</small>
-                    </p>
-                    <p class="card-text">
-                        <small class="text-muted">Status: @(Task.Status)</small>
-                    </p>
-                </div>
-                <p class="card-text">
-                    <small class="text-muted">Assigned To: @Task.AssignedTo</small>
-                </p>
-                <p class="card-text">
-                    <span class="badge @(GetPriorityBadgeClass(Task.Priority))">@Task.Priority</span>
-                </p>
-            </div>
+    <div class="card-header" @onclick="ToggleCard">
+        <div class="d-flex justify-content-between align-items-center">
+            <h5 class="mb-0">@Task.Title</h5>
+            <small class="text-muted">Due: @Task.DueDate?.ToString("MM/dd/yyyy")</small>
+            <button class="btn btn-link" type="button">
+                <i class="fas @(IsExpanded ? "fa-chevron-up" : "fa-chevron-down")"></i>
+            </button>
         </div>
     </div>
+
+    @if (IsExpanded)
+    {
+        <div class="card-body">
+            <p class="card-text">@Task.Description</p>
+
+            <p class="card-text">
+                <strong>Review:</strong> <span>@Task.Review.Mood</span><br />
+                <small>@Task.Review.Comment</small>
+            </p>
+
+            <p class="card-text">
+                <strong>Resources:</strong><br />
+                @if (Task.Resources != null && Task.Resources.Count > 0)
+                {
+                    <ul>
+                        @foreach (var resource in Task.Resources)
+                        {
+                            <li><a href="@resource.Url">@resource.Title</a></li>
+                        }
+                    </ul>
+                }
+                else
+                {
+                    <small>No resources available</small>
+                }
+            </p>
+        </div>
+    }
 </div>
 
 @code {
     [Parameter]
     public TaskDTO Task { get; set; }
 
-    private string GetPriorityBadgeClass(TaskPriority priority)
+    private bool IsExpanded { get; set; } = false;
+
+    private void ToggleCard()
     {
-        return priority switch
-        {
-            TaskPriority.Low => "bg-success text-white",
-            TaskPriority.Medium => "bg-warning text-dark",
-            TaskPriority.High => "bg-danger text-white",
-            _ => ""
-        };
+        IsExpanded = !IsExpanded;
     }
 }

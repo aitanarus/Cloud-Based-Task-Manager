@@ -19,28 +19,39 @@ body[b-o9qgke606t] {
 }
 /* _content/ComponentsLib/TaskCard.razor.rz.scp.css */
 .task-card[b-aossny7kl2] {
-    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for transform and shadow */
-    cursor: pointer; /* Change cursor to pointer on hover */
-    overflow: hidden; /* Prevents overflow on hover */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+    overflow: hidden;
 }
 
     .task-card:hover[b-aossny7kl2] {
-        transform: translateY(-5px); /* Move the card up slightly */
-        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); /* Add a shadow effect */
+        transform: translateY(-5px);
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
     }
 
-    .task-card img[b-aossny7kl2] {
-        border-top-left-radius: .25rem;
-        border-bottom-left-radius: .25rem;
-        height: auto; /* Ensures image maintains aspect ratio */
-    }
+.card-body[b-aossny7kl2] {
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+}
 
 .badge[b-aossny7kl2] {
     font-size: 0.9em;
     padding: 0.5em 0.8em;
 }
+
+ul[b-aossny7kl2] {
+    padding-left: 15px;
+}
+
+a[b-aossny7kl2] {
+    color: #007bff;
+    text-decoration: none;
+}
+
+    a:hover[b-aossny7kl2] {
+        text-decoration: underline;
+    }
 /* _content/ComponentsLib/TaskForm.razor.rz.scp.css */
-<style >
 /* Form Styling */
 form#taskForm[b-7n5zedfylg] {
     max-width: 600px;
@@ -101,5 +112,3 @@ form#taskForm[b-7n5zedfylg] {
 .mb-4[b-7n5zedfylg] {
     margin-bottom: 1.5rem;
 }
-
-</style[b-7n5zedfylg] >

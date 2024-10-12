@@ -2,6 +2,7 @@
 @using ComponentsLib
 @using Core.DTOs
 @using Core.IBase
+@using Core.Enum
 
 @page "/"
 
@@ -20,11 +21,59 @@
     // Sample list of TaskDTOs
     private List<TaskDTO> tasks = new List<TaskDTO>
     {
-        new TaskDTO(1, "Complete Project Report", "Finalize and submit the project report by the end of the week.", DateTime.Now.AddDays(5), TaskPriority.Low, "John Doe", Core.DTOs.TaskStatus.Done),
-        new TaskDTO(2, "Meeting with Client", "Discuss project requirements and deadlines with the client.", DateTime.Now.AddDays(2), TaskPriority.High, "Jane Smith", Core.DTOs.TaskStatus.ToDo),
-        new TaskDTO(3, "Code Review", "Review the latest code changes made by the development team.", DateTime.Now.AddDays(1), TaskPriority.Medium, "Bob Johnson", Core.DTOs.TaskStatus.Done),
-        new TaskDTO(4, "Deploy Application", "Deploy the latest version of the application to production.", DateTime.Now.AddDays(3), TaskPriority.Low, "Alice Davis", Core.DTOs.TaskStatus.InProgress),
-        new TaskDTO(5, "Update Documentation", "Update the project documentation with the latest changes.", DateTime.Now.AddDays(7), TaskPriority.Medium, "Charlie Brown", Core.DTOs.TaskStatus.Done),
-        new TaskDTO(6, "Team Standup", "Daily standup meeting with the development team.", DateTime.Now.AddDays(0), TaskPriority.Low, "Diana Prince", Core.DTOs.TaskStatus.ToDo)
+        new TaskDTO(
+            1,
+            "Complete Project Report",
+            "Finalize and submit the project report by the end of the week.",
+            DateTime.Now.AddDays(5),
+            TaskState.Completed,
+            new ReviewDTO("Task completed smoothly", MoodType.Happy),
+            new List<ResourceDTO> { new ResourceDTO("Report Template", "https://example.com/report-template") }
+        ),
+        new TaskDTO(
+            2,
+            "Meeting with Client",
+            "Discuss project requirements and deadlines with the client.",
+            DateTime.Now.AddDays(2),
+            TaskState.Pending,
+            new ReviewDTO("Client had some concerns about the timeline", MoodType.Stressed),
+            new List<ResourceDTO> { new ResourceDTO("Meeting Agenda", "https://example.com/agenda") }
+        ),
+        new TaskDTO(
+            3,
+            "Code Review",
+            "Review the latest code changes made by the development team.",
+            DateTime.Now.AddDays(1),
+            TaskState.Completed,
+            new ReviewDTO("Code review was smooth", MoodType.Neutral),
+            new List<ResourceDTO> { new ResourceDTO("Pull Request", "https://example.com/pull-request") }
+        ),
+        new TaskDTO(
+            4,
+            "Deploy Application",
+            "Deploy the latest version of the application to production.",
+            DateTime.Now.AddDays(3),
+            TaskState.Pending,
+            new ReviewDTO("Deployment was delayed due to server issues",MoodType.Stressed),
+            new List<ResourceDTO> { new ResourceDTO("Deployment Guide", "https://example.com/deployment") }
+        ),
+        new TaskDTO(
+            5,
+            "Update Documentation",
+            "Update the project documentation with the latest changes.",
+            DateTime.Now.AddDays(7),
+            TaskState.Pending,
+            new ReviewDTO("Documentation was updated successfully", MoodType.Satisfied),
+            new List<ResourceDTO> { new ResourceDTO("Documentation Link", "https://example.com/documentation") }
+        ),
+        new TaskDTO(
+            6,
+            "Team Standup",
+            "Daily standup meeting with the development team.",
+            DateTime.Now,
+            TaskState.Completed,
+            new ReviewDTO("Standup went as expected", MoodType.Stressed),
+            new List<ResourceDTO> { new ResourceDTO("Standup Notes", "https://example.com/notes") }
+        )
     };
 }

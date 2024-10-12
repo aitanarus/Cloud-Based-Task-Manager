@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bnwhYn+bpFTVK0eEjsK1EQ7hQ6vjPSOHBwT4lbrzB4g=",
+  "Hash": "c6I/T0r7Kc7RglKfaGwAhEzLljwhfsCScpcPODSuGOw=",
   "Source": "ComponentsLib",
   "BasePath": "_content/ComponentsLib",
   "Mode": "Default",
@@ -151,6 +151,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Aitana\\.nuget\\packages\\blazor.bootstrap\\3.0.0\\staticwebassets\\pdfjs-4.0.379.worker.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Aitana\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\8.0.10\\staticwebassets\\AuthenticationService.js",
+      "SourceId": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Aitana\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\8.0.10\\staticwebassets\\",
+      "BasePath": "_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+      "RelativePath": "AuthenticationService.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Aitana\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\8.0.10\\staticwebassets\\AuthenticationService.js"
     },
     {
       "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\src\\ComponentsLib\\obj\\Release\\net6.0\\scopedcss\\bundle\\ComponentsLib.styles.css",

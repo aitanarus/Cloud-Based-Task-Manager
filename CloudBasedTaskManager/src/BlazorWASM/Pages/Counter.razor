@@ -49,12 +49,6 @@
         if (task.DueDate == DateTime.MinValue)
             errors.Add("Due date is required.");
 
-        if (task.Priority == TaskPriority.Low)
-            errors.Add("Priority is required.");
-
-        if (string.IsNullOrWhiteSpace(task.AssignedTo))
-            errors.Add("Assigned To is required.");
-
         return errors;
     }
 
