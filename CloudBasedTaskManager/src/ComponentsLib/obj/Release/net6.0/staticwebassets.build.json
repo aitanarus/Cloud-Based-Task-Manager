@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "c6I/T0r7Kc7RglKfaGwAhEzLljwhfsCScpcPODSuGOw=",
+  "Hash": "9jSvXmIyy+G7+vizvxwz4X6sazc5ZDc/YZ1cdAY7usI=",
   "Source": "ComponentsLib",
   "BasePath": "_content/ComponentsLib",
   "Mode": "Default",
@@ -236,6 +236,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\logo_taskly_2.png"
+    },
+    {
+      "Identity": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\src\\ComponentsLib\\wwwroot\\logo_taskly_white.png",
+      "SourceId": "ComponentsLib",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aitana\\OneDrive - ViaUC\\Skrivebord\\Portfolio\\Cloud-Based-Task-Manager\\CloudBasedTaskManager\\src\\ComponentsLib\\wwwroot\\",
+      "BasePath": "_content/ComponentsLib",
+      "RelativePath": "logo_taskly_white.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logo_taskly_white.png"
     }
   ]
 }

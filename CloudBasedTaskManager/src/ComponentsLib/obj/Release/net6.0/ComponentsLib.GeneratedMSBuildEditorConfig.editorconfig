@@ -15,10 +15,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\ComponentsLib
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Aitana/OneDrive - ViaUC/Skrivebord/Portfolio/Cloud-Based-Task-Manager/CloudBasedTaskManager/src/ComponentsLib/BottomNavBar.razor]
-build_metadata.AdditionalFiles.TargetPath = Qm90dG9tTmF2QmFyLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Aitana/OneDrive - ViaUC/Skrivebord/Portfolio/Cloud-Based-Task-Manager/CloudBasedTaskManager/src/ComponentsLib/GoogleCalendar.razor]
 build_metadata.AdditionalFiles.TargetPath = R29vZ2xlQ2FsZW5kYXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -30,6 +26,10 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/Aitana/OneDrive - ViaUC/Skrivebord/Portfolio/Cloud-Based-Task-Manager/CloudBasedTaskManager/src/ComponentsLib/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aitana/OneDrive - ViaUC/Skrivebord/Portfolio/Cloud-Based-Task-Manager/CloudBasedTaskManager/src/ComponentsLib/BottomNavBar.razor]
+build_metadata.AdditionalFiles.TargetPath = Qm90dG9tTmF2QmFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-n281du2tmn
 
 [C:/Users/Aitana/OneDrive - ViaUC/Skrivebord/Portfolio/Cloud-Based-Task-Manager/CloudBasedTaskManager/src/ComponentsLib/ErrorMessageCard.razor]
 build_metadata.AdditionalFiles.TargetPath = RXJyb3JNZXNzYWdlQ2FyZC5yYXpvcg==

@@ -1,0 +1,25 @@
+﻿/* Styling for the bottom navbar */
+.nav-link {
+    flex-grow: 1; /* Make links fill the available space */
+    text-align: center; /* Center-align text */
+    padding: 10px; /* Add padding */
+    color: #ffffff; /* White text color */
+}
+
+.navbar {
+    background-color: #111111; /* Dark background */
+}
+
+/* Media query to hide the navbar on larger screens (e.g., tablets, desktops) */
+@media (min-width: 768px) {
+    .mobile-navbar {
+        display: none; /* Hide navbar on screens wider than 768px */
+    }
+}
+
+/* Media query to ensure navbar is visible on small devices (e.g., phones) */
+@media (max-width: 767px) {
+    .mobile-navbar {
+        display: flex; /* Show navbar on mobile devices */
+    }
+}

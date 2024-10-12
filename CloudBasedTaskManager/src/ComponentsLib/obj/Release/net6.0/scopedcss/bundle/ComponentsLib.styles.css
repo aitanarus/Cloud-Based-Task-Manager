@@ -1,5 +1,31 @@
 @import '_content/Blazor.Bootstrap/Blazor.Bootstrap.bundle.scp.css';
 
+/* _content/ComponentsLib/BottomNavBar.razor.rz.scp.css */
+/* Styling for the bottom navbar */
+.nav-link[b-n281du2tmn] {
+    flex-grow: 1; /* Make links fill the available space */
+    text-align: center; /* Center-align text */
+    padding: 10px; /* Add padding */
+    color: #ffffff; /* White text color */
+}
+
+.navbar[b-n281du2tmn] {
+    background-color: #111111; /* Dark background */
+}
+
+/* Media query to hide the navbar on larger screens (e.g., tablets, desktops) */
+@media (min-width: 768px) {
+    .mobile-navbar[b-n281du2tmn] {
+        display: none; /* Hide navbar on screens wider than 768px */
+    }
+}
+
+/* Media query to ensure navbar is visible on small devices (e.g., phones) */
+@media (max-width: 767px) {
+    .mobile-navbar[b-n281du2tmn] {
+        display: flex; /* Show navbar on mobile devices */
+    }
+}
 /* _content/ComponentsLib/ErrorMessageCard.razor.rz.scp.css */
 body[b-o9qgke606t] {
     background-color: #f8f9fa; 
