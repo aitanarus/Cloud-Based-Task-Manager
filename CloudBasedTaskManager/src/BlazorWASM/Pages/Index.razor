@@ -7,6 +7,14 @@
 @page "/"
 
 <div class="container">
+    <!-- Row for the "Create New Task" button -->
+    <div class="row mb-3">
+        <div class="col text-end">
+            <button class="btn btn-primary" @onclick="CreateNewTask">Create New Task</button>
+        </div>
+    </div>
+
+    <!-- Row for displaying tasks -->
     <div class="row">
         @foreach (var task in tasks)
         {
@@ -76,4 +84,20 @@
             new List<ResourceDTO> { new ResourceDTO("Standup Notes", "https://example.com/notes") }
         )
     };
+
+    private void CreateNewTask()
+    {
+
+        var newTask = new TaskDTO(
+            6,
+            "Team Standup",
+            "Daily standup meeting with the development team.",
+            DateTime.Now,
+            TaskState.Completed,
+            new ReviewDTO("Standup went as expected", MoodType.Stressed),
+            new List<ResourceDTO> { new ResourceDTO("Standup Notes", "https://example.com/notes") }
+        );
+
+        tasks.Add(newTask); // Adds the new task to the list
+    }
 }
