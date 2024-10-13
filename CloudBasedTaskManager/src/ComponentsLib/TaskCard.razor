@@ -1,4 +1,5 @@
 ﻿@using Core.DTOs
+@using Core.Enum
 
 <div class="card mb-3 task-card shadow-sm">
     <div class="card-header" @onclick="ToggleCard">
@@ -6,7 +7,7 @@
             <h5 class="mb-0">@Task.Title</h5>
             <small class="text-muted">Due: @Task.DueDate?.ToString("MM/dd/yyyy")</small>
             <button class="btn btn-link" type="button">
-                <i class="fas @(IsExpanded ? "fa-chevron-up" : "fa-chevron-down")"></i>
+               
             </button>
         </div>
     </div>
@@ -14,6 +15,10 @@
     @if (IsExpanded)
     {
         <div class="card-body">
+
+            @if (!showReviewForm)
+            {
+
             <p class="card-text">@Task.Description</p>
 
             <p class="card-text">
@@ -37,6 +42,18 @@
                     <small>No resources available</small>
                 }
             </p>
+            @if (Task.State == TaskState.Pending)
+            {
+                <button class="btn btn-primary" @onclick="OpenReviewModal">Complete Task</button>
+            }
+            }
+
+            <!-- Conditionally render the TaskReviewForm based on the value of showReviewForm -->
+            @if (showReviewForm)
+            {
+                <TaskReviewForm OnClose="CloseReviewModal" />
+            }
+
         </div>
     }
 </div>
@@ -47,8 +64,23 @@
 
     private bool IsExpanded { get; set; } = false;
 
+    private bool showReviewForm = false;
+
+
+    private ReviewDTO Review { get; set; }
+
     private void ToggleCard()
     {
         IsExpanded = !IsExpanded;
+    }
+
+    private void OpenReviewModal()
+    {
+        showReviewForm = true;
+    }
+
+    private void CloseReviewModal()
+    {
+        showReviewForm = false;
     }
 }

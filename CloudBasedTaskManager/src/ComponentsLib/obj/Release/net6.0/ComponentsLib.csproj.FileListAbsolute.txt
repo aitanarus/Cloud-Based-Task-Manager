@@ -13,7 +13,6 @@ C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\C
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\ComponentsLib\obj\Release\net6.0\staticwebassets.development.json
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\ComponentsLib\obj\Release\net6.0\scopedcss\ErrorMessageCard.razor.rz.scp.css
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\ComponentsLib\obj\Release\net6.0\scopedcss\TaskCard.razor.rz.scp.css
-C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\ComponentsLib\obj\Release\net6.0\scopedcss\TaskForm.razor.rz.scp.css
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\ComponentsLib\obj\Release\net6.0\scopedcss\bundle\ComponentsLib.styles.css
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\ComponentsLib\obj\Release\net6.0\scopedcss\projectbundle\ComponentsLib.bundle.scp.css
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\ComponentsLib\obj\Release\net6.0\ComponentsLib.csproj.CopyComplete
@@ -22,3 +21,4 @@ C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\C
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\ComponentsLib\obj\Release\net6.0\ComponentsLib.pdb
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\ComponentsLib\obj\Release\net6.0\ref\ComponentsLib.dll
 C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\ComponentsLib\obj\Release\net6.0\scopedcss\BottomNavBar.razor.rz.scp.css
+C:\Users\Aitana\OneDrive - ViaUC\Skrivebord\Portfolio\Cloud-Based-Task-Manager\CloudBasedTaskManager\src\ComponentsLib\obj\Release\net6.0\scopedcss\TaskForm.razor.rz.scp.css

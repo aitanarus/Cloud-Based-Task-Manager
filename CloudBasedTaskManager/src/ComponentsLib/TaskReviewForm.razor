@@ -1,0 +1,74 @@
+﻿@using Core.DTOs
+@using Core.Enum
+
+<div class="container mt-1">
+            <!-- Text field for adding comments -->
+            <div class="mb-1">
+                <label for="reviewComment" class="form-label">Write your review</label>
+                <textarea id="reviewComment" class="form-control" @bind="Review.Comment" rows="4"></textarea>
+            </div>
+
+            <!-- Mood buttons represented by faces -->
+            <div class="mb-3">
+                <label class="form-label">Select your mood</label>
+                <div class="d-flex justify-content-around">
+                    @foreach (var mood in Enum.GetValues<MoodType>())
+                    {
+                        <button type="button" class="btn btn-light" @onclick="() => SetMood(mood)" title="@mood.ToString()">
+                            @GetMoodIcon(mood) <!-- This will render an emoji or an icon for each mood -->
+                        </button>
+                    }
+                </div>
+            </div>
+
+            <button type="button" class="btn btn-secondary" @onclick="OnClose">Close</button>
+            <button type="button" class="btn btn-primary" @onclick="SaveReview">Save Review</button>
+</div>
+
+@code {
+    [Parameter]
+    public ReviewDTO Review { get; set; } = new ReviewDTO();
+
+    [Parameter]
+    public EventCallback OnClose { get; set; }
+
+    [Parameter]
+    public EventCallback OnSave { get; set; }
+
+    protected override void OnInitialized()
+    {
+        if (Review == null)
+        {
+            Review = new ReviewDTO();
+        }
+    }
+
+    private void SetMood(MoodType mood)
+    {
+        Review.Mood = mood;
+    }
+
+    private void SaveReview()
+    {
+        if (OnSave.HasDelegate)
+        {
+            OnSave.InvokeAsync();
+        }
+    }
+
+    private string GetMoodIcon(MoodType mood)
+    {
+        return mood switch
+        {
+            MoodType.Happy => "😊",
+            MoodType.Neutral => "😐",
+            MoodType.Frustrated => "😠",
+            MoodType.Excited => "😃",
+            MoodType.Stressed => "😰",
+            MoodType.Calm => "😌",
+            MoodType.Angry => "😡",
+            MoodType.Satisfied => "😏",
+            _ => "🙂" // Default icon
+        };
+    }
+}
